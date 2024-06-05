@@ -1,0 +1,8 @@
++=Plus
+-=Minus
+*=Times
+/=Divide
+%=Modulo
+^=Exponentiate
+\!=Negate
+\==Equals
